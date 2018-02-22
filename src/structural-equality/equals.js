@@ -1,4 +1,4 @@
-export const equals = y => x => {
+export const equals = x => y => {
   if (x === undefined) {
     throw new ReferenceError('x must not be undefined');
   }
