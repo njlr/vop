@@ -37,7 +37,7 @@ equals(1)(1) // true
 We're almost there. This library implements _structural_ equality, which has the behaviour we want! 
 
 ```javascript=
-import { equals } from './index.js';
+import { equals } from '@njlr/vop';
 
 const p = {
   x: 1, 
