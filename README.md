@@ -50,7 +50,7 @@ p |> equals({ x: 1, y: 2}); // true
 
 1 |> equals(1) // true
 
-'abc |> equals('abc') // true
+'abc' |> equals('abc') // true
 ```
 
 
