@@ -24,7 +24,7 @@ const strictEquality = {
 From an equality object, we can construct an equals function: 
 
 ```javascript=
-import { equalsFromEquality } from '@njlr/vop`; 
+import { equalsFromEquality } from '@njlr/vop'; 
 
 const equals = equalsFromEquality(strictEquality);
 
