@@ -1,4 +1,4 @@
-import * as se from './structural-equality';
+import * as se from './structural-equality/index.js';
 
 export const structuralEquality = se;
 
