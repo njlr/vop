@@ -2,6 +2,8 @@
 
 Value-orientated programming tools for JavaScript 💎
 
+[![Travis](https://img.shields.io/travis/njlr/seq.svg)](https://travis-ci.org/njlr/vop) 
+
 ```javascript=
 yarn add @njlr/vop
 ```
