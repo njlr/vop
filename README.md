@@ -2,6 +2,9 @@
 
 Value-orientated programming tools for JavaScript 💎
 
+```javascript=
+yarn add @njlr/vop
+```
 
 ## Why?
 
@@ -51,13 +54,19 @@ p |> equals({ x: 1, y: 2}); // true
 
 ## Development
 
+Dependencies are managed by Yarn:
+
 ```bash=
 yarn install --pure-lockfile
 ```
 
+To run all tests:
+
 ```bash=
 yarn test 
 ```
+
+To build the library:
 
 ```bash=
 yarn build 
